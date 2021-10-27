@@ -102,6 +102,7 @@ A *Kripton* 4 részéből áll, melyek
   <summary>Discord.JS V12</summary>
   
 <!--START_SECTION:js-->
+#### [Teljes Mappa](https://github.com/KriptonSource/Discord.js-V12)
 - [#1 | Alapok](https://github.com/KriptonSource/Discord.js-V12)
 <!--END_SECTION:js-->
 
