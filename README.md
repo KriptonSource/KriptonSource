@@ -28,7 +28,7 @@ A *Kripton* 4 részéből áll, melyek
 
 <br />
 
-👉 A **Kripton Bot**: egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
+👉 A [**Kripton Bot**](https://github.com/KriptonSource/KriptonSource/blob/main/README.md#a--kripton-bot--fejleszt%C3%A9s-alatt): egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
 
 👉 A **Kripton Craft**: egy folyamatosan fejlődő *Minecraft* szerver, amelyen egy jó játékos közösség található.
 
