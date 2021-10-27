@@ -40,7 +40,6 @@ A *Kripton* 4 részéből áll, melyek
 <br />
 <br />
 
-
 ### Kapcsolat
 
 [<img align="left" alt="kripton-bot.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
