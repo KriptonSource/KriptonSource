@@ -30,12 +30,12 @@ A *Kripton* 4 részéből áll, melyek
 
 👉 A [**Kripton Bot**](https://github.com/KriptonSource/KriptonSource/blob/main/README.md#a--kripton-bot--fejleszt%C3%A9s-alatt): egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
 
-👉 A **Kripton Craft**: egy folyamatosan fejlődő *Minecraft* szerver, amelyen egy jó játékos közösség található.
+👉 A [**Kripton Craft**](https://github.com/KriptonSource/KriptonSource/blob/main/README.md#a--kripton-craft--fejleszt%C3%A9s-alatt): egy folyamatosan fejlődő *Minecraft* szerver, amelyen egy jó játékos közösség található.
 
-👉 A **Kripton Code**: egyik része egy kódmegosztó fórum, ahol megoszthatsz *html*, *javascript*, *python*, 
+👉 A [**Kripton Code**](https://github.com/KriptonSource/KriptonSource/blob/main/README.md#a--kripton-code): egyik része egy kódmegosztó fórum, ahol megoszthatsz *html*, *javascript*, *python*, 
 *css*, *discord.js* és *egyéb* kódokat. A másik részén pedig *Mi* osztunk meg oktatóanyagokat, melyeket YouTube csatornánkra töltünk fel. *(Ez is programozás.)*
 
-👉 A **Kripton Group**: *két* dolgot foglal magába, 1. ami ezt az egészet *összefogja*, valamint egy *közösség központú* Discord szervert, ahol megosztunk különböző *scripteket* *Minecraft*-hoz, *GTA RolePlay*-hez vagy *Discord Botkohoz* kapcsolódóan.
+👉 A [**Kripton Group**](https://github.com/KriptonSource/KriptonSource/blob/main/README.md#a--kripton-group): *két* dolgot foglal magába, 1. ami ezt az egészet *összefogja*, valamint egy *közösség központú* Discord szervert, ahol megosztunk különböző *scripteket* *Minecraft*-hoz, *GTA RolePlay*-hez vagy *Discord Botkohoz* kapcsolódóan.
 
 <br />
 
