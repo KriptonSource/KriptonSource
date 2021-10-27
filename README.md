@@ -78,9 +78,7 @@ A *Kripton* 4 részéből áll, melyek
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][discordjsv12]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][discordjsv13]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
-<br />
 <br />
 <br />
 
@@ -88,7 +86,7 @@ A *Kripton* 4 részéből áll, melyek
 - [x] HTML5
 - [x] CSS3
 - [x] JS
-- [ ] MongoDB
+- [ ] QuickDB
 - [ ] Python
 - [x] PHP
 - [ ] C++
