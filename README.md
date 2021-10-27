@@ -28,8 +28,6 @@
 
 ### Kik vagyunk mi?
 
-------
-
 
 A *Kripton* 4 részéből áll, melyek 
 
