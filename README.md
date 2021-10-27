@@ -27,6 +27,7 @@ A *Kripton* 4 részéből áll, melyek
 - Weboldal: *http://kripton-code.ml/* *(nem üzemel)*.
 
 <br />
+<br />
 
 👉 A **Kripton Bot**: egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
 
