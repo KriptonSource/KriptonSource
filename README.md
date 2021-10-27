@@ -38,7 +38,6 @@ A *Kripton* 4 részéből áll, melyek
 👉 A **Kripton Group**: *két* dolgot foglal magába, 1. ami ezt az egészet *összefogja*, valamint egy *közösség központú* Discord szervert, ahol megosztunk különböző *scripteket* *Minecraft*-hoz, *GTA RolePlay*-hez vagy *Discord Botkohoz* kapcsolódóan.
 
 <br />
-<br />
 
 ### Kapcsolat
 
