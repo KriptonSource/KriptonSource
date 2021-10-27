@@ -104,7 +104,7 @@ A *Kripton* 4 részéből áll, melyek
 
 ### 🖥️ YouTube Videó SourceCodes
 <details>
- #### <summary>Discord.JS V12</summary>
+  <summary>#### Discord.JS V12</summary>
   
 <!--START_SECTION:js-->
 #### [Teljes Mappa](https://github.com/KriptonSource/Discord.js-V12)
@@ -114,7 +114,7 @@ A *Kripton* 4 részéből áll, melyek
 </details>
 
 <details>
-  #### <summary>Discord.JS V13</summary>
+   <summary>Discord.JS V13</summary>
   
 <!--START_SECTION:js-->
 #### [Teljes Mappa]()
