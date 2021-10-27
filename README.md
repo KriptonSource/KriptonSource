@@ -6,7 +6,8 @@
 
 ## Rólunk
 
-Kik vagyunk mi?
+### Kik vagyunk mi?
+
 A *Kripton* 4 részéből áll, melyek 
 
  a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
@@ -25,6 +26,7 @@ A *Kripton* 4 részéből áll, melyek
 - Discord link: *https://discord.gg/FPGMNHRMN7*,
 - Weboldal: *http://kripton-code.ml/* *(nem üzemel)*.
 
+<br />
 
 👉 A **Kripton Bot**: egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
 
