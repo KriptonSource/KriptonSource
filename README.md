@@ -108,6 +108,25 @@ A *Kripton* 4 részéből áll, melyek
 
 </details>
 
+<details>
+  <summary>Discord.JS V13</summary>
+  
+<!--START_SECTION:js-->
+#### [Teljes Mappa]()
+- [#1 | ]()
+<!--END_SECTION:js-->
+
+</details>
+
+<details>
+  <summary>HTML 5</summary>
+  
+<!--START_SECTION:js-->
+#### [Teljes Mappa]()
+- [#1 | ]()
+<!--END_SECTION:js-->
+
+</details>
 ---
 
 <details>
