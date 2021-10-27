@@ -28,6 +28,8 @@
 
 ### Kik vagyunk mi?
 
+----
+
 A *Kripton* 4 részéből áll, melyek 
 
 #### a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
@@ -60,6 +62,8 @@ A *Kripton* 4 részéből áll, melyek
 
 <br />
 
+----
+
 ### Kapcsolat
 
 [<img align="left" alt="kripton-bot.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -70,6 +74,7 @@ A *Kripton* 4 részéből áll, melyek
 <br />
 <br />
 
+----
 
 ### Programnyelvek és Eszközök:
 
@@ -81,6 +86,8 @@ A *Kripton* 4 részéből áll, melyek
 
 <br />
 <br />
+
+----
 
 - [x] Visual Studio Code
 - [x] HTML5
