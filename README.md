@@ -1,5 +1,6 @@
-### Sziasztok, mi vagyunk a Kripton Group, - akik a [KriptonScource-ot](https://discord.gg/FPGMNHRMN7) fejlesztik👋
+### Sziasztok, mi vagyunk a [Kripton Group](https://discord.gg/AxfaAV6mPA), - akik a [KriptonScource-ot](https://discord.gg/FPGMNHRMN7) fejlesztik👋
 
+[![Discord1](https://img.shields.io/discord/893459333474566145)](https://discord.gg/AxfaAV6mPA)
 [![Discord](https://img.shields.io/discord/901865305490477056)](https://discord.gg/FPGMNHRMN7)
 
 
