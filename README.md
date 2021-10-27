@@ -80,7 +80,7 @@
 [website]: http://kripton-bot.ml/
 [discord]: https://discord.gg/FPGMNHRMN7
 [youtube]: https://www.youtube.com/channel/UCpTiokV6QEJLN1y96Cn4E9Q
-[webdevplaylist]: Hamarosan...
-[visualplaylist]: Hamarosan...
+[webdevplaylist]: https://nehezgep.hu/wp-content/uploads/2020/06/hamarosan.jpg
+[visualplaylist]: https://nehezgep.hu/wp-content/uploads/2020/06/hamarosan.jpg
 [discordjsv12]: https://youtube.com/playlist?list=PLtwl8cFz39PCEqW6gSm6wNJd2XiwVe0QK
-[discordjsv13]: Hamarosan...
+[discordjsv13]: https://nehezgep.hu/wp-content/uploads/2020/06/hamarosan.jpg
