@@ -103,7 +103,7 @@ A *Kripton* 4 részéből áll, melyek
 ---
 
 ### 🖥️ YouTube Videó SourceCodes
-#### <details>
+ <details>
   <summary> Discord.JS V12</summary>
   
 <!--START_SECTION:js-->
