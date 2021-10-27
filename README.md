@@ -19,9 +19,6 @@
     </li>
     <li>
       <a href="#%EF%B8%8F-youtube-videó-resourceok">🖥️ YouTube Videó Resourceok</a>
-      <ul>
-        <li><a href="#--discordjs---v12--1--alapok"># 1 | Alapok</a></li>
-      </ul>
     </li>
   </ol>
 </details>
@@ -102,7 +99,7 @@ A *Kripton* 4 részéből áll, melyek
 
 ### 🖥️ YouTube Videó Resourceok
 <details>
-  #### <summary>Discord.JS</summary>
+  <summary>Discord.JS V12</summary>
   
 <!--START_SECTION:js-->
 - [Discord.js - V12 | #1 | Alapok](https://github.com/KriptonSource/Discord.js-V12)
