@@ -19,6 +19,11 @@
     </li>
     <li>
       <a href="#%EF%B8%8F-youtube-videó-sourcecodes">🖥️ YouTube Videó SourceCodes</a>
+       <ul>
+        <li><a href="#teljes-mappa">Discod.JS V12</a></li>
+        <li><a href="#teljes-mappa-2">Discord.JS V13</a></li>
+        <li><a href="#teljes-mappa-3">HTML 5</a></li>
+      </ul>
     </li>
   </ol>
 </details>
