@@ -18,7 +18,7 @@
       <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
     </li>
     <li>
-      <a href="#-legutóbbi-youtube-videók">🖥️ YouTube Videó Resourceok</a>
+      <a href="#%EF%B8%8F-youtube-videó-resourceok">🖥️ YouTube Videó Resourceok</a>
       <ul>
         <li><a href="#--discordjs---v12--1--alapok"># 1 | Alapok</a></li>
       </ul>
