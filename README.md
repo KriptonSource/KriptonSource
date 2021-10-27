@@ -5,6 +5,37 @@
 
 
 ## Rólunk
+
+Kik vagyunk mi?
+A *Kripton* 4 részéből áll, melyek 
+
+ a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
+- Discord link: *https://discord.gg/fShhpCS9Uk*,
+- Weboldal: *http://kripton-bot.ml/*,
+
+ a 🧱 **Kripton Craft** 🧱 *(fejlesztés alatt)*
+- Discord link: *https://discord.gg/NGfceUHzkc*,
+- Weboldal: *http://kripton-craft.ml/* *(nem üzemel)*,
+
+ a 🌐 **Kripton Group** 🌐
+- Discord link: *https://discord.gg/AxfaAV6mPA*,
+- Weboldal: *http://kripton.ml/* *(nem üzemel)*,
+
+ és a 💻 **Kripton Code** 💻
+- Discord link: *https://discord.gg/FPGMNHRMN7*,
+- Weboldal: *http://kripton-code.ml/* *(nem üzemel)*.
+
+
+👉 A **Kripton Bot**: egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
+
+👉 A **Kripton Craft**: egy folyamatosan fejlődő *Minecraft* szerver, amelyen egy jó játékos közösség található.
+
+👉 A **Kripton Code**: egyik része egy kódmegosztó fórum, ahol megoszthatsz *html*, *javascript*, *python*, 
+*css*, *discord.js* és *egyéb* kódokat. A másik részén pedig *Mi* osztunk meg oktatóanyagokat, melyeket YouTube csatornánkra töltünk fel. *(Ez is programozás.)*
+
+👉 A **Kripton Group**: *két* dolgot foglal magába, 1. ami ezt az egészet *összefogja*, valamint egy *közösség központú* Discord szervert, ahol megosztunk különböző *scripteket* *Minecraft*-hoz, *GTA RolePlay*-hez vagy *Discord Botkohoz* kapcsolódóan.
+
+
 ### Kapcsolat
 
 [<img align="left" alt="kripton-bot.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
