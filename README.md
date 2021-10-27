@@ -1,4 +1,4 @@
-### Sziasztok, mi vagyunk a Kripton Group, - akik a [KriptonScource-ot][Discord] fejlesztik👋
+### Sziasztok, mi vagyunk a Kripton Group, - akik a [KriptonScource-ot][discord] fejlesztik👋
 
 [![Discord](https://img.shields.io/discord/901865305490477056)](https://discord.gg/FPGMNHRMN7)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
