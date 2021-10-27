@@ -18,7 +18,7 @@
       <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
     </li>
     <li>
-      <a href="#%EF%B8%8F-youtube-videó-resourceok">🖥️ YouTube Videó Resourceok</a>
+      <a href="#%EF%B8%8F-youtube-videó-sourcecodes">🖥️ YouTube Videó SourceCodes</a>
     </li>
   </ol>
 </details>
@@ -97,7 +97,7 @@ A *Kripton* 4 részéből áll, melyek
 
 ---
 
-### 🖥️ YouTube Videó Resourceok
+### 🖥️ YouTube Videó SourceCodes
 <details>
   <summary>Discord.JS V12</summary>
   
