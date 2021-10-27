@@ -3,6 +3,23 @@
 [![Discord1](https://img.shields.io/discord/893459333474566145?style=plastic&logo=discord)](https://discord.gg/AxfaAV6mPA)
 [![Discord](https://img.shields.io/discord/901865305490477056?style=plastic&logo=discord)](https://discord.gg/FPGMNHRMN7)
 
+<details>
+  <summary>Tartalomjegyzék</summary>
+  <ol>
+    <li>
+      <a href="#rólunk">Rólunk</a>
+      <ul>
+        <li><a href="#kik-vagyunk-mi">Kik vagyunk mi?</a></li>
+        <li><a href="#kapcsolat">Kapcsolat</a></li>
+        <li><a href="#programnyelvek-és-eszközök">Programnyelvek és Eszközök</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
+    </li>
+  </ol>
+</details>
+
 
 ## Rólunk
 
