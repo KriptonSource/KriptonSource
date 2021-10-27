@@ -10,19 +10,19 @@
 
 A *Kripton* 4 részéből áll, melyek 
 
- a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
+####a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
 - [Discord](https://discord.gg/fShhpCS9Uk),
 - [Weboldal](http://kripton-bot.ml/),
 
- a 🧱 **Kripton Craft** 🧱 *(fejlesztés alatt)*
+####a 🧱 **Kripton Craft** 🧱 *(fejlesztés alatt)*
 - [Discord](https://discord.gg/NGfceUHzkc),
 - [Weboldal](http://kripton-craft.ml/) *(nem üzemel)*,
 
- a 🌐 **Kripton Group** 🌐
+####a 🌐 **Kripton Group** 🌐
 - [Discord](https://discord.gg/AxfaAV6mPA),
 - [Weboldal](http://kripton.ml/) *(nem üzemel)*,
 
- és a 💻 **Kripton Code** 💻
+####és a 💻 **Kripton Code** 💻
 - [Discord](https://discord.gg/FPGMNHRMN7),
 - [Weboldal](http://kripton-code.ml/) *(nem üzemel)*.
 
