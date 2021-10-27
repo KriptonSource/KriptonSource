@@ -102,10 +102,10 @@ A *Kripton* 4 részéből áll, melyek
 
 ### 🖥️ YouTube Videó Resourceok
 <details>
-  <summary>Discord.JS</summary>
+  #### <summary>Discord.JS</summary>
   
 <!--START_SECTION:js-->
-#### - [Discord.js - V12 | #1 | Alapok](https://github.com/KriptonSource/Discord.js-V12)
+- [Discord.js - V12 | #1 | Alapok](https://github.com/KriptonSource/Discord.js-V12)
 <!--END_SECTION:js-->
 
 </details>
