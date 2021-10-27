@@ -28,7 +28,7 @@
 
 ### Kik vagyunk mi?
 
-----
+-----
 
 A *Kripton* 4 részéből áll, melyek 
 
@@ -62,7 +62,7 @@ A *Kripton* 4 részéből áll, melyek
 
 <br />
 
-----
+-----
 
 ### Kapcsolat
 
@@ -74,7 +74,7 @@ A *Kripton* 4 részéből áll, melyek
 <br />
 <br />
 
-----
+-----
 
 ### Programnyelvek és Eszközök:
 
@@ -87,7 +87,7 @@ A *Kripton* 4 részéből áll, melyek
 <br />
 <br />
 
-----
+-----
 
 - [x] Visual Studio Code
 - [x] HTML5
