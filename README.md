@@ -16,6 +16,12 @@
     </li>
     <li>
       <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
+       <ul>
+        <li><a href="#kik-vagyunk-mi"># 1 | Alapok</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#-legutóbbi-youtube-videók">🖥️ YouTube Videó Resourceok</a>
     </li>
   </ol>
 </details>
@@ -91,6 +97,18 @@ A *Kripton* 4 részéből áll, melyek
 <!-- YOUTUBE:END -->
 
 ➡️ [Még több videó...](https://www.youtube.com/channel/UCpTiokV6QEJLN1y96Cn4E9Q)
+
+---
+
+### 🖥️ YouTube Videó Resourceok
+<details>
+  <summary>Discord.JS</summary>
+  
+<!--START_SECTION:js-->
+####- [Discord.js - V12 | #1 | Alapok](https://github.com/KriptonSource/Discord.js-V12)
+<!--END_SECTION:js-->
+
+</details>
 
 ---
 
