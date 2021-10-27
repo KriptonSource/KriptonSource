@@ -27,7 +27,6 @@ A *Kripton* 4 részéből áll, melyek
 - Weboldal: *http://kripton-code.ml/* *(nem üzemel)*.
 
 <br />
-<br />
 
 👉 A **Kripton Bot**: egy közösségi *Discord Bot*, melyben sok-sok parancs könnyíti a moderátorok munkáját és viccesebbé teszi a szerver életét.
 
@@ -38,6 +37,9 @@ A *Kripton* 4 részéből áll, melyek
 
 👉 A **Kripton Group**: *két* dolgot foglal magába, 1. ami ezt az egészet *összefogja*, valamint egy *közösség központú* Discord szervert, ahol megosztunk különböző *scripteket* *Minecraft*-hoz, *GTA RolePlay*-hez vagy *Discord Botkohoz* kapcsolódóan.
 
+<br />
+<br />
+
 
 ### Kapcsolat
 
@@ -47,6 +49,8 @@ A *Kripton* 4 részéből áll, melyek
 
 
 <br />
+<br />
+
 
 ### Programnyelvek és Eszközök:
 
@@ -58,6 +62,7 @@ A *Kripton* 4 részéből áll, melyek
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
 
+<br />
 <br />
 <br />
 
