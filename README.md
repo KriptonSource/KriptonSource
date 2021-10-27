@@ -11,20 +11,20 @@
 A *Kripton* 4 részéből áll, melyek 
 
  a 🤖 **Kripton Bot** 🤖 *(fejlesztés alatt)*
-- Discord link: *https://discord.gg/fShhpCS9Uk*,
-- Weboldal: *http://kripton-bot.ml/*,
+- [Discord](https://discord.gg/fShhpCS9Uk),
+- [Weboldal](http://kripton-bot.ml/),
 
  a 🧱 **Kripton Craft** 🧱 *(fejlesztés alatt)*
-- Discord link: *https://discord.gg/NGfceUHzkc*,
-- Weboldal: *http://kripton-craft.ml/* *(nem üzemel)*,
+- [Discord](https://discord.gg/NGfceUHzkc),
+- [Weboldal](http://kripton-craft.ml/) *(nem üzemel)*,
 
  a 🌐 **Kripton Group** 🌐
-- Discord link: *https://discord.gg/AxfaAV6mPA*,
-- Weboldal: *http://kripton.ml/* *(nem üzemel)*,
+- [Discord](https://discord.gg/AxfaAV6mPA),
+- [Weboldal](http://kripton.ml/) *(nem üzemel)*,
 
  és a 💻 **Kripton Code** 💻
-- Discord link: *https://discord.gg/FPGMNHRMN7*,
-- Weboldal: *http://kripton-code.ml/* *(nem üzemel)*.
+- [Discord](https://discord.gg/FPGMNHRMN7),
+- [Weboldal](http://kripton-code.ml/) *(nem üzemel)*.
 
 <br />
 
