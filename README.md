@@ -1,4 +1,4 @@
-### Sziasztok, mi vagyunk a [Kripton Group](https://discord.gg/AxfaAV6mPA), - akik a [KriptonScource-ot](https://discord.gg/FPGMNHRMN7) fejlesztik👋
+### Sziasztok, mi vagyunk a [Kripton Group](https://discord.gg/AxfaAV6mPA), - akik a [KriptonScource-ot](https://discord.gg/FPGMNHRMN7) fejlesztik - 👋
 
 [![Discord1](https://img.shields.io/discord/893459333474566145?style=plastic&logo=discord)](https://discord.gg/AxfaAV6mPA)
 [![Discord](https://img.shields.io/discord/901865305490477056?style=plastic&logo=discord)](https://discord.gg/FPGMNHRMN7)
@@ -7,11 +7,10 @@
 ## Rólunk
 ### Kapcsolat
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="http://kripton-bot.ml/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.youtube.com/channel/UCpTiokV6QEJLN1y96Cn4E9Q" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://discord.gg/FPGMNHRMN7" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
