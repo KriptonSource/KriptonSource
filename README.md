@@ -16,12 +16,12 @@
     </li>
     <li>
       <a href="#-legutóbbi-youtube-videók">📺 Legutóbbi YouTube Videók</a>
-       <ul>
-        <li><a href="#kik-vagyunk-mi"># 1 | Alapok</a></li>
-      </ul>
     </li>
     <li>
       <a href="#-legutóbbi-youtube-videók">🖥️ YouTube Videó Resourceok</a>
+      <ul>
+        <li><a href="#kik-vagyunk-mi"># 1 | Alapok</a></li>
+      </ul>
     </li>
   </ol>
 </details>
