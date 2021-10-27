@@ -7,7 +7,7 @@
   <summary>Tartalomjegyzék</summary>
   <ol>
     <li>
-      <a href="#rólunk">Rólunk</a>
+      <a href="#rólunk">👨 Rólunk</a>
       <ul>
         <li><a href="#kik-vagyunk-mi">Kik vagyunk mi?</a></li>
         <li><a href="#kapcsolat">Kapcsolat</a></li>
@@ -21,7 +21,7 @@
 </details>
 
 
-## Rólunk
+## 👨 Rólunk
 
 ### Kik vagyunk mi?
 
