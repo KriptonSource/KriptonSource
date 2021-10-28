@@ -150,6 +150,7 @@ A *Kripton* 4 részéből áll, melyek
 <!--END_SECTION:activity-->
 
 </details>
+
 ![Alt Text](https://media.giphy.com/media/s1lNU14apksSxDoUnY/giphy.gif)
 
 [website]: http://kripton-bot.ml/
