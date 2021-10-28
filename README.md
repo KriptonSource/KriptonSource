@@ -151,7 +151,7 @@ A *Kripton* 4 részéből áll, melyek
 
 </details>
 
-![Alt Text](https://media.giphy.com/media/s1lNU14apksSxDoUnY/giphy.gif)
+<center>![Alt Text](https://media.giphy.com/media/s1lNU14apksSxDoUnY/giphy.gif)</center>
 
 [website]: http://kripton-bot.ml/
 [discord]: https://discord.gg/FPGMNHRMN7
