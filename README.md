@@ -82,6 +82,7 @@ A *Kripton* 4 részéből áll, melyek
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][discordjsv12]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][discordjsv13]
+[<img align="left" alt="Quick.db" width="26px" src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-28427.appspot.com%2Fo%2Fspaces%252F-MDq9o71qnYEA88UG6px%252Favatar-1596494419402.png%3Fgeneration%3D1596494420056601%26alt%3Dmedia" />][webdevplaylist]
 
 <br />
 <br />
@@ -91,10 +92,7 @@ A *Kripton* 4 részéből áll, melyek
 - [x] HTML5
 - [x] CSS3
 - [x] JS
-- [ ] QuickDB
-- [ ] Python
-- [x] PHP
-- [ ] C++
+- [x] QuickDB
 - [ ] C#
 
 ---
